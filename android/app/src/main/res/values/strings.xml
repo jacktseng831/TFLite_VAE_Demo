@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VAE Demo</string>
+
+    <string name="drawn_image">Drawn Image</string>
+    <string name="generated_image">Generated Image</string>
+    <string name="image_content">VAE Result</string>
+    <string name="clear_button">Clear Digit</string>
+    <string name="stroke_width">Stroke Width</string>
+    <string name="tilt_1">Tilt 1</string>
+    <string name="tilt_2">Tilt 2</string>
+    <string name="input_digit">Input Digit</string>
+    <string name="output_digit">Input Digit</string>
+    <string-array name="digits">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
